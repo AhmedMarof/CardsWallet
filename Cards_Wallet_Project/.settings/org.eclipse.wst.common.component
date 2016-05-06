@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Cards_Wallet_Project">
+        <wb-resource deploy-path="/" source-path="/apps/Cards_Wallet/common"/>
+        <property name="context-root" value="Cards_Wallet_Project"/>
+    </wb-module>
+</project-modules>
